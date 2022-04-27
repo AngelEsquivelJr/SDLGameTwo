@@ -1,0 +1,19 @@
+﻿  bullet.cpp
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelCPPProject3_1A\SDLGamev2\SDLGamev2\bullet.cpp(28,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelCPPProject3_1A\SDLGamev2\SDLGamev2\bullet.cpp(29,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelCPPProject3_1A\SDLGamev2\SDLGamev2\bullet.cpp(46,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelCPPProject3_1A\SDLGamev2\SDLGamev2\bullet.cpp(47,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelCPPProject3_1A\SDLGamev2\SDLGamev2\bullet.cpp(61,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  enemy.cpp
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelCPPProject3_1A\SDLGamev2\SDLGamev2\enemy.cpp(28,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelCPPProject3_1A\SDLGamev2\SDLGamev2\enemy.cpp(35,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelCPPProject3_1A\SDLGamev2\SDLGamev2\enemy.cpp(36,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelCPPProject3_1A\SDLGamev2\SDLGamev2\main.cpp(30,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelCPPProject3_1A\SDLGamev2\SDLGamev2\main.cpp(62,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelCPPProject3_1A\SDLGamev2\SDLGamev2\main.cpp(71,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelCPPProject3_1A\SDLGamev2\SDLGamev2\main.cpp(224,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelCPPProject3_1A\SDLGamev2\SDLGamev2\main.cpp(224,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelCPPProject3_1A\SDLGamev2\SDLGamev2\main.cpp(389,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SDLGamev2.vcxproj -> C:\Users\aesqu\OneDrive\Desktop\Other Lang\AdvancedProgramming\Sum21\AEsquivelCPPProject3_1A\SDLGamev2\x64\Debug\SDLGamev2.exe
